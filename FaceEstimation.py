@@ -1,5 +1,3 @@
-# https://google.github.io/mediapipe/solutions/face_detection.html
-
 import os, time, cv2, mediapipe as mp, utils.BGRColor as BGR
 
 class FaceDetector():
